@@ -2,9 +2,9 @@
 
 I'm a developer with a strong passion for JavaScript and Open source. 
 
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Open source projects
-- ⚡ Hobbies: Literature, music and games.
+- 📚 I’m currently learning React
+- 🤝🏻 I’m looking to collaborate on Open source projects
+- 🎮 Hobbies: Literature, music and games.
 
 <hr/>
 
